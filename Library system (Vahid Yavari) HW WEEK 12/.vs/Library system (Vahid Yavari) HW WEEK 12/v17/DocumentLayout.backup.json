@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\repositories\\efcorerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\repositories\\efcorerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\repositories\\ilibrarysystemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\repositories\\ilibrarysystemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\entities\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\entities\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\services\\ilibrarysystemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\services\\ilibrarysystemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\services\\librarysystemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\services\\librarysystemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\dto\\bookdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\dto\\bookdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|c:\\users\\vahid\\desktop\\librarysystem\\library system (vahid yavari) hw week 12\\library system (vahid yavari) hw week 12\\migrations\\20250924141703_isloggedin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FAC25B-5265-4A7C-AAEA-BE8B9DBC052E}|Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12.csproj|solutionrelative:library system (vahid yavari) hw week 12\\migrations\\20250924141703_isloggedin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Entities\\Review.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:56:44.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Entities\\User.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:46:25.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowedBook.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Entities\\BorrowedBook.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Entities\\BorrowedBook.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Entities\\BorrowedBook.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Entities\\BorrowedBook.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:41:44.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFCoreRepo.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Repositories\\EFCoreRepo.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Repositories\\EFCoreRepo.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Repositories\\EFCoreRepo.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Repositories\\EFCoreRepo.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:46:56.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Entities\\Category.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T08:18:20.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Program.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Program.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Program.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8BAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T04:15:23.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILibrarySystemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Repositories\\ILibrarySystemRepository.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Repositories\\ILibrarySystemRepository.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Repositories\\ILibrarySystemRepository.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Repositories\\ILibrarySystemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:38:22.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:47:43.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Entities\\Book.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Entities\\Book.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:41:43.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibrarySystemService.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Services\\LibrarySystemService.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Services\\LibrarySystemService.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Services\\LibrarySystemService.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Services\\LibrarySystemService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:29:16.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILibrarySystemService.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Services\\ILibrarySystemService.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Services\\ILibrarySystemService.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Services\\ILibrarySystemService.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Services\\ILibrarySystemService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:28:31.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookDisplayModel.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\DTO\\BookDisplayModel.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\DTO\\BookDisplayModel.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\DTO\\BookDisplayModel.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\DTO\\BookDisplayModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:48:59.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250924141703_isloggedin.cs",
+              "DocumentMoniker": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Migrations\\20250924141703_isloggedin.cs",
+              "RelativeDocumentMoniker": "Library system (Vahid Yavari) HW WEEK 12\\Migrations\\20250924141703_isloggedin.cs",
+              "ToolTip": "C:\\Users\\VAHID\\Desktop\\LibrarySystem\\Library system (Vahid Yavari) HW WEEK 12\\Library system (Vahid Yavari) HW WEEK 12\\Migrations\\20250924141703_isloggedin.cs",
+              "RelativeToolTip": "Library system (Vahid Yavari) HW WEEK 12\\Migrations\\20250924141703_isloggedin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:17:03.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
