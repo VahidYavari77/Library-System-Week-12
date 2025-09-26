@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Library system (Vahid Yavari) HW WEEK 12")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45e23f745fce2782824a0dabaf447d5ee3a4bc3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Library system (Vahid Yavari) HW WEEK 12")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Library system (Vahid Yavari) HW WEEK 12")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

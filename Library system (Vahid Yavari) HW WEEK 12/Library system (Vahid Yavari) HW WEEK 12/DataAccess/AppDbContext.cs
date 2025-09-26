@@ -143,6 +143,7 @@ namespace Library_system__Vahid_Yavari__HW_WEEK_12.DataAccess
                       .IsRequired(false);
 
                 entity.Property(r => r.Rating)
+               // .HasPrecision()
                       .IsRequired();
 
                 entity.HasCheckConstraint("CK_Reviews_Rating", "[Rating] >= 1 AND [Rating] <= 5");
